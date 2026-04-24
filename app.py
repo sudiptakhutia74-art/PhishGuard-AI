@@ -36,7 +36,7 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 # --- 3. Wake up the Smarter BERT Brain ---
 print("[*] Waking up the Deep Learning BERT Brain...")
-model_path = './bert_phishing_model'
+model_path = 'distilbert-base-uncased'
 tokenizer = DistilBertTokenizerFast.from_pretrained(model_path)
 model = DistilBertForSequenceClassification.from_pretrained(model_path)
 
