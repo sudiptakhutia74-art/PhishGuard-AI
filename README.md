@@ -7,7 +7,7 @@
 PhishGuard AI is an advanced cybersecurity solution designed to detect and neutralize phishing threats in real-time. By leveraging a custom-tuned **BERT (Bidirectional Encoder Representations from Transformers)** model, it analyzes the semantic intent of emails to identify malicious patterns that traditional filters miss.
 
 ## 🚀 Live Demo
-**[Click here to try PhishGuard AI](https://123sudipta-phishguard-ai.hf.space)**
+**[Click here to try PhishGuard AI](https://phishguard-ai-home.hf.space)**
 
 ## ✨ Key Features
 * **Sentinel AI Chatbot:** Real-time analysis of suspicious links and text.
